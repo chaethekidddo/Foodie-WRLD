@@ -3,6 +3,8 @@ vibe-coded using Claude Sonnet 4. for the love of foodies.
 
 ![Foodie WRLD Screenshot](https://github.com/user-attachments/assets/9b626d97-ac76-4d40-8f52-4e23aa935a0a)
 
+Available at: https://chaethekidddo.github.io/Foodie-WRLD/
+
 ## Features
 - Buy ingredients from the shop
 - Dynamic customer system with patience meters
