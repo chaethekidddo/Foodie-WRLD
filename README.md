@@ -1,7 +1,7 @@
 # Foodie-WRLD
 vibe-coded using Claude Sonnet 4. for the love of foodies.
 
-![Foodie WRLD Screenshot](https://github.com/user-attachments/assets/6fd55ad6-cb5c-4fec-80bf-88f0bdf5eba1)
+![Foodie WRLD Screenshot](https://github.com/user-attachments/assets/9b626d97-ac76-4d40-8f52-4e23aa935a0a)
 
 ## Features
 - Buy ingredients from the shop
